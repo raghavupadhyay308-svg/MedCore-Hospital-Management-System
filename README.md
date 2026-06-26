@@ -150,4 +150,4 @@ The SQLite database (`medcore.db`) is created automatically on first run and see
 
 ---
 
-*Developed by Raghav Upadhyay · B.Tech AI/ML, GEHU Dehradun · [github.com/raghavupadhyay308](https://github.com/raghavupadhyay308)*
+*Developed by Raghav Upadhyay · B.Tech AI/ML, GEHU Dehradun · [github.com/raghavupadhyay308](https://github.com/raghavupadhyay308-svg)*
